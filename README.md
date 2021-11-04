@@ -16,4 +16,5 @@
 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/LongestPalindromicSubstring.java ) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
 |[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/InsertDeleteGetRandomO(1).java ) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
 |  [Tow Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/TwoSum.java ) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
+|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/LongestSubstringWithoutRepeatingCharacters.java ) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
 
