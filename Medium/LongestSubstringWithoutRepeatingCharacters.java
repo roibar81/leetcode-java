@@ -26,23 +26,22 @@ Example 4:
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         int longest = 0;
-		int currentLongest = 0;
-		Map<Character , Integer> chackIfAppears = new HashMap<>();
-		
-		for(int j = 0 ; j < s.length() ; j++) {
-			for(int i = j ; i < s.length() ; i++) {
-				if(chackIfAppears.containsKey(s.charAt(i))){
-					chackIfAppears.clear();
-					break;
-				}else {
-					chackIfAppears.put(s.charAt(i), i);
-					currentLongest++;
-				}
-				if(longest < currentLongest)
-					longest = currentLongest;
+	int currentLongest = 0;
+	Map<Character , Integer> chackIfAppears = new HashMap<>();		
+	for(int j = 0 ; j < s.length() ; j++) {
+		for(int i = j ; i < s.length() ; i++) {
+			if(chackIfAppears.containsKey(s.charAt(i))){
+				chackIfAppears.clear();
+				break;
+			}else {
+				chackIfAppears.put(s.charAt(i), i);
+				currentLongest++;
 			}
-			currentLongest = 0;
+			if(longest < currentLongest)
+				longest = currentLongest;
 		}
-		return longest;
+		currentLongest = 0;
+	}
+	return longest;
     }
 }
