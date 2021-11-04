@@ -12,6 +12,6 @@
 
 | Question   | Solution  | Difficulty  |
 | ---------- | --------- | ----------- |
-|  [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Solution](https://github.com/roibar81/roibar/blob/master/StringsManipulations.java ) |  Easy |
+|  [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/new%201.java ) |  Easy |
 
 
