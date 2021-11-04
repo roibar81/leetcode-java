@@ -27,7 +27,6 @@ class Solution {
             Integer other = map.get(dist);
             if(other != null)
                 return new int[] {i , other};
-            
             map.put(nums[i], i);  
         }
         return null;
