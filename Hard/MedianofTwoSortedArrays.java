@@ -51,6 +51,6 @@ class Solution {
         }else {
         	res = (double) medArr[(medArr.length / 2)];
         }
-		return res;
+	return res;
     }
 }
