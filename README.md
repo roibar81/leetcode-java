@@ -5,7 +5,7 @@
 
 
 
-| Easy   | Mediume   | Hard   |
+| Easy   | Medium    | Hard   |
 | ------ | --------- | -------|
 |29|10|2|
 
