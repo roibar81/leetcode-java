@@ -18,4 +18,5 @@
 |  [Tow Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/TwoSum.java ) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/LongestSubstringWithoutRepeatingCharacters.java ) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Hard/MedianofTwoSortedArrays.java ) |  [Hard](https://github.com/roibar81/leetcode-java/tree/main/Hard) |
+|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/ReverseInteger.java ) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
 
