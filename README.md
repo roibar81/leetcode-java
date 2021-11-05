@@ -19,4 +19,5 @@
 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/LongestSubstringWithoutRepeatingCharacters.java ) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Hard/MedianofTwoSortedArrays.java ) |  [Hard](https://github.com/roibar81/leetcode-java/tree/main/Hard) |
 |[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/ReverseInteger.java ) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
+|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/StringToInteger%20(atoi).java ) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
 
