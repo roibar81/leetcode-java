@@ -21,3 +21,4 @@
 |[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/ReverseInteger.java ) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
 |[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/StringToInteger%20(atoi).java ) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
 |[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/PalindromeNumber.java ) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
+|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/IntegerToRoman.java) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
