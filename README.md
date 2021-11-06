@@ -36,3 +36,4 @@
 |[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/ValidAnagram.java) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
 |[Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/MissingNumber.java) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
 |[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/MoveZeroes.java) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
+|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/ReverseString.java) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
