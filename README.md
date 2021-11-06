@@ -30,3 +30,4 @@
 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/MergeSortedArray.java) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
 |[Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/SameTree.java) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
 |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/MaximumDepthOfBinaryTree.java) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
+|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/LinkedListCycle.java) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
