@@ -44,3 +44,4 @@
 |[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/NumberOfRecentCalls.java) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
 |[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/ValidMountainArray.java)|  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy)|
 |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/SquaresOfASortedArray.java)|  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy)|
+|[Height Checker](https://leetcode.com/problems/height-checker/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/HeightChecker.java)|  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy)|
