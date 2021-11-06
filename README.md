@@ -38,3 +38,4 @@
 |[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/MoveZeroes.java) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
 |[Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/ReverseString.java) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
   |[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/SumOfTwoIntegers.java) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
+|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/MaxConsecutiveOnes.java) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
