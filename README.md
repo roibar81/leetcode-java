@@ -23,3 +23,4 @@
 |[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/PalindromeNumber.java ) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
 |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/IntegerToRoman.java) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/MergeTwoSortedLists.java) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
+|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/submissions/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Hard/MergeKSortedLists.java) |  [Hard](https://github.com/roibar81/leetcode-java/tree/main/Hard) |
