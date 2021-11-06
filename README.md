@@ -35,3 +35,4 @@
 |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/IntersectionOfTwoLinkedLists.java) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
 |[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/ValidAnagram.java) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
 |[Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/MissingNumber.java) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
+|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/MoveZeroes.java) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
