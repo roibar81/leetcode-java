@@ -28,10 +28,6 @@ Insert Delete GetRandom O(1)
 	randomizedSet.remove(1); // Removes 1 from the set, returns true. Set now contains [2].
 	randomizedSet.insert(2); // 2 was already in the set, so return false.
 	randomizedSet.getRandom(); // Since 2 is the only number in the set, getRandom() will always return 2.
-
-*
-*
-*
 */
 
 class RandomizedSet {
@@ -40,8 +36,7 @@ class RandomizedSet {
     Random rand = new Random();
     
     public RandomizedSet() {
-        hash_map = new HashMap<>();
-            
+        hash_map = new HashMap<>();      
     }
     
     public boolean insert(int val) {
