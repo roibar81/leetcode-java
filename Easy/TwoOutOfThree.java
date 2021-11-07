@@ -31,34 +31,34 @@ Constraints:
 class Solution {
     public List<Integer> twoOutOfThree(int[] nums1, int[] nums2, int[] nums3) {
         List<Integer> res = new ArrayList<Integer>();
-		int index1 = 0;
-		int index2 = 0;
+	int index1 = 0;
+	int index2 = 0;
         int index3 = 0;
 		
-		for(index1 = 0 ; index1 < nums1.length ; index1++) {
-			int tmp = nums1[index1];
-			index2 = 0;
-			index3 = 0;
-			while(index2 < nums2.length || index3 < nums3.length) {
-				if(index2 < nums2.length && nums2[index2++] == tmp && !res.contains(tmp)) {
-					res.add(tmp);
-					break;
-				}
-				if(index3 < nums3.length && nums3[index3++] == tmp && !res.contains(tmp)) {
-					res.add(tmp);
-					break;
-				}
+	for(index1 = 0 ; index1 < nums1.length ; index1++) {
+		int tmp = nums1[index1];
+		index2 = 0;
+		index3 = 0;
+		while(index2 < nums2.length || index3 < nums3.length) {
+			if(index2 < nums2.length && nums2[index2++] == tmp && !res.contains(tmp)) {
+				res.add(tmp);
+				break;
+			}
+			if(index3 < nums3.length && nums3[index3++] == tmp && !res.contains(tmp)) {
+				res.add(tmp);
+				break;
 			}
 		}
-		for(index2 = 0 ; index2 < nums2.length ; index2++) {
-			int tmp = nums2[index2];
-			for(index3 = 0 ; index3 < nums3.length ; index3++) {
-				if(nums3[index3] == tmp && !res.contains(tmp)) {
-					res.add(tmp);
-					break;
-				}
+	}
+	for(index2 = 0 ; index2 < nums2.length ; index2++) {
+		int tmp = nums2[index2];
+		for(index3 = 0 ; index3 < nums3.length ; index3++) {
+			if(nums3[index3] == tmp && !res.contains(tmp)) {
+				res.add(tmp);
+				break;
 			}
 		}
-		return res;
+	}
+	return res;
     }
 }
