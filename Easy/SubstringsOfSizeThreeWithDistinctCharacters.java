@@ -2,15 +2,14 @@
 Substrings of Size Three with Distinct Characters
 
 Description-
+
 A string is good if there are no repeated characters.
 
-Given a string s​​​​​, return the number of good substrings of length three in s​​​​​​.
+Given a string s, return the number of good substrings of length three in s.
 
 Note that if there are multiple occurrences of the same substring, every occurrence should be counted.
 
 A substring is a contiguous sequence of characters in a string.
-
- 
 
 Example 1:
 	Input: s = "xyzzaz"
@@ -25,17 +24,17 @@ Example 2:
  
 Constraints:
 	1 <= s.length <= 100
-	s​​​​​​ consists of lowercase English letters.
+	s consists of lowercase English letters.
  */
  
- class Solution {
-   public int countGoodSubstrings(String s) {
-	    int count = 0;
-	    while(s.length() >= 3){
-	        if(s.charAt(0) != s.charAt(1) && s.charAt(0) != s.charAt(2) && s.charAt(1) != s.charAt(2))
-	        	count++;
-	        s = s.substring(1 , s.length());
-	    }
-	    return count;
+class Solution { 
+	public int countGoodSubstrings(String s) {
+		int count = 0;
+		while(s.length() >= 3){
+			if(s.charAt(0) != s.charAt(1) && s.charAt(0) != s.charAt(2) && s.charAt(1) != s.charAt(2))
+				count++;
+			s = s.substring(1 , s.length());
+		}
+		return count;
 	}
 }
