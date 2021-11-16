@@ -1,13 +1,13 @@
 
 # Java leetcode
 
-# Total 39
+# Total 40
 
 
 
 | Easy   | Medium    | Hard   |
 | ------ | --------- | -------|
-|27|10|2|
+|28|10|2|
 
 
 | Question   | Solution  | Difficulty  |
