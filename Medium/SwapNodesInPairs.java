@@ -1,9 +1,8 @@
 /*
 Swap Nodes in Pairs
-Description-
-Given a linked list, swap every two adjacent nodes and return its head. You must solve the problem without modifying the values in the list's nodes (i.e., only nodes themselves may be changed.)
-
- 
+Description - 
+Given a linked list, swap every two adjacent nodes and return its head. 
+You must solve the problem without modifying the values in the list's nodes (i.e., only nodes themselves may be changed.)
 
 Example 1:
 	Input: head = [1,2,3,4]
@@ -18,18 +17,7 @@ Example 3:
 	The number of nodes in the list is in the range [0, 100].
 	0 <= Node.val <= 100
  */
- 
- /**
- * Definition for singly-linked list.
- * class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) {
- *         val = x;
- *         next = null;
- *     }
- * }
- */
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -50,12 +38,12 @@ class Solution {
 		while(head != null && head.next != null) {
 			
 			prev.next = head.next;
-		    prev = head.next;
-		    head.next = prev.next;
-		    prev.next = head;
-		    head = head.next;
-		    prev = prev.next;
-	    }
+			prev = head.next;
+			head.next = prev.next;
+			prev.next = head;
+			head = head.next;
+			prev = prev.next;
+	    	}
 		return preHead.next;
 	}
 }
