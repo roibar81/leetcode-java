@@ -1,7 +1,7 @@
 
 # Java leetcode
 
-# Total 41
+# Total 42
 
 
 
