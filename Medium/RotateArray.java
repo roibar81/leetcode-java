@@ -27,7 +27,7 @@ Constraints:
 	Could you do it in-place with O(1) extra space?
  */
  
- /*There is 4 solutions*/
+ /*There is 3 solutions*/
 public void rotate(int[] nums, int k) {
 		int tmp = 0;
 		int i = 0, j = 0;
