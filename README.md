@@ -1,13 +1,13 @@
 
 # Java leetcode
 
-# Total 43
+# Total 44
 
 
 
 | Easy   | Medium    | Hard   |
 | ------ | --------- | -------|
-|28|13|2|
+|29|13|2|
 
 
 | Question   | Solution  | Difficulty  |
@@ -55,3 +55,5 @@
 |[Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/NumberOfStringsThatAppearAsSubstringsInWord.java)|[Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy)
 |[Two Out of Three](https://leetcode.com/problems/two-out-of-three/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/TwoOutOfThree.java)|[Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy)
 |  [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/SubstringsOfSizeThreeWithDistinctCharacters.java) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
+|  [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/ReverseWordsInAStringIII.java) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
+
