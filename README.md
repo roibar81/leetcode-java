@@ -1,17 +1,18 @@
 
 # Java leetcode
 
-# Total 44
+# Total 45
 
 
 
 | Easy   | Medium    | Hard   |
 | ------ | --------- | -------|
-|29|13|2|
+|29|14|2|
 
 
 | Question   | Solution  | Difficulty  |
 | ---------- | --------- | ----------- |
+|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/RemoveNthNodeFromEndOfList.java) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
 |[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/RotateArray.java) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
 |[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/FindFirstAndLastPositionOfElementInSortedArray.java) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
 |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/SwapNodesInPairs.java) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
