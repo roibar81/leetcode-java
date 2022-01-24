@@ -1,22 +1,23 @@
 
 # Java leetcode
 
-# Total 45
+# Total 46
 
 
 
 | Easy   | Medium    | Hard   |
 | ------ | --------- | -------|
-|29|14|2|
+|30|14|2|
 
 
 | Question   | Solution  | Difficulty  |
 | ---------- | --------- | ----------- |
-|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/RemoveNthNodeFromEndOfList.java) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
-|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/RotateArray.java) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
-|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/FindFirstAndLastPositionOfElementInSortedArray.java) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
+|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/MergeTwoBinaryTrees.java)|[Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy)|
+|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/RemoveNthNodeFromEndOfList.java)|[Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium)|
+|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/RotateArray.java)|[Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium)|
+|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |[Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/FindFirstAndLastPositionOfElementInSortedArray.java)|[Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
 |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/SwapNodesInPairs.java) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
-|  [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/FirstUniqueCharacterInString.java ) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
+|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/FirstUniqueCharacterInString.java ) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/LongestPalindromicSubstring.java ) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
 |[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Medium/InsertDeleteGetRandomO(1).java ) |  [Medium](https://github.com/roibar81/leetcode-java/tree/main/Medium) |
 |  [Tow Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/roibar81/leetcode-java/blob/main/Easy/TwoSum.java ) |  [Easy](https://github.com/roibar81/leetcode-java/tree/main/Easy) |
