@@ -29,43 +29,26 @@ Constraints:
 
 class Solution {
     public boolean validMountainArray(int[] arr) {
-        int i = 0;
-        int j = 0;
-        int changeDirection = 0;
-        
-        if(arr.length < 3)
-            return false;
-        if(arr[0] == 2 && arr[1] == 0 && arr[2] == 2) // Exept test bug
+        if(arr.length<3)
             return false;
         
-        for(i = 0 ; i < arr.length - 1 ; i++){
-                if(arr[i] == arr[i+1])
-                    return false;
+        int i=1;
+        
+        while(i<arr.length&&arr[i-1]<arr[i]){
+            i++;
         }
-        i = 0;
-        if(arr[i] < arr[i + 1]){
-            for(i = 0 ; i < arr.length - 1 ; i++){
-                if(arr[i] > arr[i+1]){
-                    for(j = i ; j < arr.length - 1 ; j++){
-                        if(arr[j] < arr[j+1] || arr[j] == arr[j+1])
-                            return false;
-                    }
-                    return true;
-                }
-            }
+        
+        if(i==arr.length || i==1)
+            return false;
+        
+        while(i<arr.length&&arr[i-1]>arr[i]){
+            i++;
         }
-        else{ //arr[0] > arr[1]
-            for(i = 0 ; i < arr.length - 1 ; i++){
-                if(arr[i] < arr[i+1]){
-                    for(j = i ; j < arr.length - 1 ; j++){
-                        if(arr[j] > arr[j+1] || arr[j] == arr[j+1])
-                            return false;
-                    }
-                    return true;
-                }
-            }   
-        }
-        return false;
+        
+        if(i==arr.length)
+            return true;
+        else
+            return false;
     }
 }
         
