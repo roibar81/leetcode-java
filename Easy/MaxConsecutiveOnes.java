@@ -20,38 +20,16 @@ Constraints:
 
 class Solution {
     public int findMaxConsecutiveOnes(int[] nums) {
-        int counter = 0;
-        int lastValChacked = -1;
-        int maxSequence = 0;
-        int size = nums.length;
-        
-        if(size == 0)
-            return 0;
-        
-        lastValChacked = nums[0];
-        
-        if(lastValChacked == 1){
-            counter = 1;
-            maxSequence = 1;
+       
+        int maxCon = 0;
+        int currMaxCon = 0;
+        for(int i = 0 ; i < nums.length ; i++){
+            if(nums[i] == 1)
+                currMaxCon++;
+            else
+                currMaxCon = 0;
+            maxCon = Math.max(maxCon, currMaxCon);
         }
-        for(int i = 1 ; i < size ; i++){
-            if(nums[i] == 1 && lastValChacked == 1){
-                counter += 1;
-                if(maxSequence < counter)
-                    maxSequence = counter;
-            }
-            if(nums[i] == 1 && lastValChacked != 1){
-                counter += 1;
-                if(maxSequence < counter)
-                    maxSequence = counter;
-            }
-            if(nums[i] !=1 && lastValChacked == 1){
-                if(maxSequence < counter)
-                    maxSequence = counter;
-                counter = 0;
-            }
-            lastValChacked = nums[i];
-        }   
-        return maxSequence;
-    } 
+        return maxCon;
+    }
 }
