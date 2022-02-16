@@ -57,33 +57,27 @@ Constraints:
 
 class Solution {
     public int removeElement(int[] nums, int val) {
+        if (nums.length == 0)  
+            return 0;
+        
         int size = nums.length;
         int k = 0;
         int i = 0;
         int j = 0;
         
-        if (size == 0)  {
-            return 0;  
-        }else if( size == 1){
-            return nums[0] != val ? 1 : 0;
-        }else{
-            for(i = 0 ; i < size ; i++ ){
-                if(nums[i] != val)
-                    k++;
-            }
-            
-            int tmp;
-            
-            for(i = 0 ; i < size-1 ; i++) {
-            	for(j = size-1 ; j>=i ; j--){
-            		if(nums[j] != val) {            
-            			tmp = nums[j];
-                        nums[j] = nums[i];
-                        nums[i] = tmp;
-            		}
+        for(i = 0 ; i < size ; i++ ){
+            if(nums[i] != val)
+                k++;
+        }
+        int tmp;
+        for(i = 0 ; i < size-1 ; i++) {
+            for(j = size-1 ; j>=i ; j--){
+                if(nums[j] != val) {            
+                    tmp = nums[j];
+                    nums[j] = nums[i];
+                    nums[i] = tmp;
                 }
             }
-            nums = Arrays.copyOf(nums, k);
         }
         return k;
     }
